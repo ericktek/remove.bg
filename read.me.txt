@@ -1,0 +1,2 @@
+# How to run manual remove.bg
+python ./src/manual.py images/kid.jpg
